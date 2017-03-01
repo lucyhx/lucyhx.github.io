@@ -7,7 +7,7 @@ title: Xia.H
 subtitle: Dear Xia
 description:
 author: Lucy Xia
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
