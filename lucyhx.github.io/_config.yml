@@ -7,12 +7,12 @@ title: Xia.H
 subtitle: Dear Xia
 description:
 author: Lucy Xia
-language: zh-cn
-timezone:  	Asia/Shanghai
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://lucyhx.github.io
+url: http://lucyhx.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
