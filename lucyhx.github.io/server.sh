@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-./build.sh
+hexo clean
+hexo g
 hexo s

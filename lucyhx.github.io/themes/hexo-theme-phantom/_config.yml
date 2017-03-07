@@ -1,0 +1,54 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+
+# Logo Image Source
+logo_src: /images/logo.svg
+
+# Theme Main Subtitle
+subtitle_main: Hello, I`m LucyXia. <br/>Welcome my <a href="https://lucyxia.coding.me/">BLOG</a>.
+
+# Theme Secondary subtitle
+susbtitle_secondary: 这里整理聚集了一些我近期独立创作的基础作品来献丑展示，欢迎多提建议。
+
+# Footer About Section
+about_footer: 本站点项目已开源<a href="https://github.com/lucyhx/lucyhx.github.io" target="_blank">GitHub</a>. <br/>欢迎提交<a href="https://github.com/lucyhx/lucyhx.github.io/issues" target="_blank">Issues</a>建议
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates:
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: klugjo
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+twitter_url: https://twitter.com/?lang=zh-cn
+facebook_url: https://www.facebook.com/
+instagram_url: https://www.instagram.com/
+dribble_url: https://dribbble.com/
+github_url: https://github.com/lucyhx/lucyhx.github.io
+googleplus_url: https://plus.google.com/
+behance_url: https://www.behance.net/
+fivehundredpx_url: https://500px.com/
+email_url: \#
+rss_url: \#
